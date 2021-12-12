@@ -1,0 +1,72 @@
+{
+  "id": "2366486",
+  "name": "qq音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7674917",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "18358593",
+      "name": "前一首",
+      "font_class": "qianyishou",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "18734089",
+      "name": "前一首",
+      "font_class": "qianyishou1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1956095",
+      "name": "电台",
+      "font_class": "diantai",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "2728492",
+      "name": "播放历史",
+      "font_class": "bofanglishi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7264944",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "9535681",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "15277691",
+      "name": "音乐 - 列表",
+      "font_class": "yinle-liebiao",
+      "unicode": "e83e",
+      "unicode_decimal": 59454
+    },
+    {
+      "icon_id": "18735125",
+      "name": "我喜欢",
+      "font_class": "woxihuan",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    }
+  ]
+}
