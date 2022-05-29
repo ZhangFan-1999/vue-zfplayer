@@ -37,7 +37,7 @@ Vue.use(VueLazyload, {
   attempt: 1
 })
 Vue.config.productionTip = false
-axios.defaults.baseURL = "https://netease-cloud-music-api-eosin-iota.vercel.app/"
+axios.defaults.baseURL = "https://music-api.zfanstudy.xyz"
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
